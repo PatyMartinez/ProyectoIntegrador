@@ -1,0 +1,1461 @@
+date,market,product,price_avg,source
+2022-01-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,50.65,SNIIM
+2022-02-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,51.01,SNIIM
+2022-03-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,57.43,SNIIM
+2022-04-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,64.92,SNIIM
+2022-05-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,86.38,SNIIM
+2022-06-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,87.22,SNIIM
+2022-07-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,95.5,SNIIM
+2022-08-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,80.85,SNIIM
+2022-09-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,68.0,SNIIM
+2022-10-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,54.3,SNIIM
+2022-11-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,36.6,SNIIM
+2022-12-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,33.0,SNIIM
+2023-01-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,30.6,SNIIM
+2023-01-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,39.08,SNIIM
+2023-01-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,50.0,SNIIM
+2023-01-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,28.0,SNIIM
+2023-01-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,67.52,SNIIM
+2023-01-15,Colima: Centros de distribución de Colima,aguacate_hass,52.0,SNIIM
+2023-01-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,41.36,SNIIM
+2023-01-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,34.6,SNIIM
+2023-01-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,33.21,SNIIM
+2023-01-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,42.0,SNIIM
+2023-01-15,Guanajuato: Central de Abasto de León,aguacate_hass,37.48,SNIIM
+2023-01-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,55.4,SNIIM
+2023-01-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,35.42,SNIIM
+2023-01-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,37.41,SNIIM
+2023-01-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,42.01,SNIIM
+2023-01-15,México: Central de Abasto de Ecatepec,aguacate_hass,41.4,SNIIM
+2023-01-15,México: Central de Abasto de Toluca,aguacate_hass,35.2,SNIIM
+2023-01-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,57.89,SNIIM
+2023-01-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,30.0,SNIIM
+2023-01-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,37.0,SNIIM
+2023-01-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,78.8,SNIIM
+2023-01-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,83.48,SNIIM
+2023-01-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,32.1,SNIIM
+2023-01-15,Puebla: Central de Abasto de Puebla,aguacate_hass,47.6,SNIIM
+2023-01-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,32.84,SNIIM
+2023-01-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,70.0,SNIIM
+2023-01-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,29.44,SNIIM
+2023-01-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,42.6,SNIIM
+2023-01-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,35.2,SNIIM
+2023-01-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,40.2,SNIIM
+2023-01-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,35.44,SNIIM
+2023-01-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,51.88,SNIIM
+2023-01-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,32.46,SNIIM
+2023-01-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,38.77,SNIIM
+2023-01-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,48.52,SNIIM
+2023-01-15,Veracruz: Mercado Malibrán,aguacate_hass,44.13,SNIIM
+2023-01-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,36.26,SNIIM
+2023-01-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,45.88,SNIIM
+2023-01-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,54.2,SNIIM
+2023-01-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,32.72,SNIIM
+2023-02-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,25.35,SNIIM
+2023-02-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,39.03,SNIIM
+2023-02-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,50.0,SNIIM
+2023-02-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,28.77,SNIIM
+2023-02-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,66.56,SNIIM
+2023-02-15,Colima: Centros de distribución de Colima,aguacate_hass,51.0,SNIIM
+2023-02-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,37.87,SNIIM
+2023-02-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,33.32,SNIIM
+2023-02-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,34.92,SNIIM
+2023-02-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,42.0,SNIIM
+2023-02-15,Guanajuato: Central de Abasto de León,aguacate_hass,36.5,SNIIM
+2023-02-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,50.8,SNIIM
+2023-02-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,35.42,SNIIM
+2023-02-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,35.0,SNIIM
+2023-02-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,27.6,SNIIM
+2023-02-15,México: Central de Abasto de Ecatepec,aguacate_hass,42.1,SNIIM
+2023-02-15,México: Central de Abasto de Toluca,aguacate_hass,37.92,SNIIM
+2023-02-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,57.89,SNIIM
+2023-02-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,30.3,SNIIM
+2023-02-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,38.5,SNIIM
+2023-02-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,56.78,SNIIM
+2023-02-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,61.58,SNIIM
+2023-02-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,34.27,SNIIM
+2023-02-15,Puebla: Central de Abasto de Puebla,aguacate_hass,40.22,SNIIM
+2023-02-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,32.63,SNIIM
+2023-02-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,70.0,SNIIM
+2023-02-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,31.0,SNIIM
+2023-02-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,42.77,SNIIM
+2023-02-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,33.49,SNIIM
+2023-02-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,42.3,SNIIM
+2023-02-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,35.87,SNIIM
+2023-02-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,58.0,SNIIM
+2023-02-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,33.65,SNIIM
+2023-02-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,40.24,SNIIM
+2023-02-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,43.06,SNIIM
+2023-02-15,Veracruz: Mercado Malibrán,aguacate_hass,43.24,SNIIM
+2023-02-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,37.36,SNIIM
+2023-02-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,46.0,SNIIM
+2023-02-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,33.04,SNIIM
+2023-03-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,29.5,SNIIM
+2023-03-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,42.52,SNIIM
+2023-03-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,54.33,SNIIM
+2023-03-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,30.48,SNIIM
+2023-03-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,76.38,SNIIM
+2023-03-15,Colima: Centros de distribución de Colima,aguacate_hass,56.0,SNIIM
+2023-03-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,36.71,SNIIM
+2023-03-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,36.88,SNIIM
+2023-03-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,38.94,SNIIM
+2023-03-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,45.68,SNIIM
+2023-03-15,Guanajuato: Central de Abasto de León,aguacate_hass,39.69,SNIIM
+2023-03-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,49.4,SNIIM
+2023-03-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.98,SNIIM
+2023-03-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,38.1,SNIIM
+2023-03-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,41.78,SNIIM
+2023-03-15,México: Central de Abasto de Ecatepec,aguacate_hass,43.9,SNIIM
+2023-03-15,México: Central de Abasto de Toluca,aguacate_hass,35.56,SNIIM
+2023-03-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,56.89,SNIIM
+2023-03-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,36.25,SNIIM
+2023-03-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,35.0,SNIIM
+2023-03-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,60.53,SNIIM
+2023-03-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,57.05,SNIIM
+2023-03-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,40.88,SNIIM
+2023-03-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,35.93,SNIIM
+2023-03-15,Puebla: Central de Abasto de Puebla,aguacate_hass,37.24,SNIIM
+2023-03-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,35.68,SNIIM
+2023-03-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,66.0,SNIIM
+2023-03-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,30.84,SNIIM
+2023-03-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,43.5,SNIIM
+2023-03-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,34.44,SNIIM
+2023-03-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,43.02,SNIIM
+2023-03-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,35.27,SNIIM
+2023-03-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,68.42,SNIIM
+2023-03-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,36.22,SNIIM
+2023-03-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,40.39,SNIIM
+2023-03-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,41.42,SNIIM
+2023-03-15,Veracruz: Mercado Malibrán,aguacate_hass,42.66,SNIIM
+2023-03-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,35.29,SNIIM
+2023-03-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,48.24,SNIIM
+2023-03-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,37.27,SNIIM
+2023-04-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,31.0,SNIIM
+2023-04-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,49.63,SNIIM
+2023-04-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,55.35,SNIIM
+2023-04-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,33.41,SNIIM
+2023-04-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-04-15,Colima: Centros de distribución de Colima,aguacate_hass,57.5,SNIIM
+2023-04-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,36.68,SNIIM
+2023-04-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,40.0,SNIIM
+2023-04-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,46.56,SNIIM
+2023-04-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,50.15,SNIIM
+2023-04-15,Guanajuato: Central de Abasto de León,aguacate_hass,42.67,SNIIM
+2023-04-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,53.5,SNIIM
+2023-04-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-04-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,43.54,SNIIM
+2023-04-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,51.1,SNIIM
+2023-04-15,México: Central de Abasto de Ecatepec,aguacate_hass,46.88,SNIIM
+2023-04-15,México: Central de Abasto de Toluca,aguacate_hass,38.92,SNIIM
+2023-04-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,48.06,SNIIM
+2023-04-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,43.75,SNIIM
+2023-04-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,42.75,SNIIM
+2023-04-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,55.08,SNIIM
+2023-04-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,54.22,SNIIM
+2023-04-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,43.0,SNIIM
+2023-04-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,34.14,SNIIM
+2023-04-15,Puebla: Central de Abasto de Puebla,aguacate_hass,37.5,SNIIM
+2023-04-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,40.77,SNIIM
+2023-04-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,70.0,SNIIM
+2023-04-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,34.9,SNIIM
+2023-04-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,46.75,SNIIM
+2023-04-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,36.01,SNIIM
+2023-04-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,50.28,SNIIM
+2023-04-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,41.7,SNIIM
+2023-04-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,72.5,SNIIM
+2023-04-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,41.06,SNIIM
+2023-04-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,43.01,SNIIM
+2023-04-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,46.68,SNIIM
+2023-04-15,Veracruz: Mercado Malibrán,aguacate_hass,47.1,SNIIM
+2023-04-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,39.48,SNIIM
+2023-04-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,50.4,SNIIM
+2023-04-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,50.4,SNIIM
+2023-04-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,38.22,SNIIM
+2023-05-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,29.0,SNIIM
+2023-05-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,48.87,SNIIM
+2023-05-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,56.0,SNIIM
+2023-05-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,34.74,SNIIM
+2023-05-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-05-15,Colima: Centros de distribución de Colima,aguacate_hass,56.4,SNIIM
+2023-05-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,41.08,SNIIM
+2023-05-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,41.44,SNIIM
+2023-05-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,48.46,SNIIM
+2023-05-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,50.11,SNIIM
+2023-05-15,Guanajuato: Central de Abasto de León,aguacate_hass,47.16,SNIIM
+2023-05-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,54.27,SNIIM
+2023-05-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-05-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,46.77,SNIIM
+2023-05-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,36.56,SNIIM
+2023-05-15,México: Central de Abasto de Ecatepec,aguacate_hass,48.0,SNIIM
+2023-05-15,México: Central de Abasto de Toluca,aguacate_hass,45.2,SNIIM
+2023-05-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,52.35,SNIIM
+2023-05-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,45.0,SNIIM
+2023-05-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,53.0,SNIIM
+2023-05-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,52.41,SNIIM
+2023-05-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,51.71,SNIIM
+2023-05-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,43.54,SNIIM
+2023-05-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,34.15,SNIIM
+2023-05-15,Puebla: Central de Abasto de Puebla,aguacate_hass,42.8,SNIIM
+2023-05-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,39.77,SNIIM
+2023-05-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,68.87,SNIIM
+2023-05-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,36.64,SNIIM
+2023-05-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,52.67,SNIIM
+2023-05-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,38.43,SNIIM
+2023-05-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,48.47,SNIIM
+2023-05-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,41.1,SNIIM
+2023-05-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,72.0,SNIIM
+2023-05-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,43.71,SNIIM
+2023-05-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,47.59,SNIIM
+2023-05-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,45.15,SNIIM
+2023-05-15,Veracruz: Mercado Malibrán,aguacate_hass,46.59,SNIIM
+2023-05-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,39.59,SNIIM
+2023-05-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,52.0,SNIIM
+2023-05-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,48.44,SNIIM
+2023-05-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,39.0,SNIIM
+2023-06-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,37.6,SNIIM
+2023-06-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,45.33,SNIIM
+2023-06-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,56.0,SNIIM
+2023-06-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,35.54,SNIIM
+2023-06-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-06-15,Colima: Centros de distribución de Colima,aguacate_hass,58.5,SNIIM
+2023-06-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,42.32,SNIIM
+2023-06-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,49.36,SNIIM
+2023-06-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,54.11,SNIIM
+2023-06-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,56.36,SNIIM
+2023-06-15,Guanajuato: Central de Abasto de León,aguacate_hass,48.44,SNIIM
+2023-06-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,56.88,SNIIM
+2023-06-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-06-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,50.64,SNIIM
+2023-06-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,37.82,SNIIM
+2023-06-15,México: Central de Abasto de Ecatepec,aguacate_hass,53.3,SNIIM
+2023-06-15,México: Central de Abasto de Toluca,aguacate_hass,50.16,SNIIM
+2023-06-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,54.84,SNIIM
+2023-06-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,47.6,SNIIM
+2023-06-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,53.5,SNIIM
+2023-06-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,58.54,SNIIM
+2023-06-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,58.34,SNIIM
+2023-06-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,50.98,SNIIM
+2023-06-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,33.02,SNIIM
+2023-06-15,Puebla: Central de Abasto de Puebla,aguacate_hass,47.0,SNIIM
+2023-06-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,46.88,SNIIM
+2023-06-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,71.6,SNIIM
+2023-06-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,40.68,SNIIM
+2023-06-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,51.96,SNIIM
+2023-06-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,52.3,SNIIM
+2023-06-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,42.82,SNIIM
+2023-06-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,57.24,SNIIM
+2023-06-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,46.1,SNIIM
+2023-06-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,72.36,SNIIM
+2023-06-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,46.2,SNIIM
+2023-06-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,51.8,SNIIM
+2023-06-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,47.56,SNIIM
+2023-06-15,Veracruz: Mercado Malibrán,aguacate_hass,49.73,SNIIM
+2023-06-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,41.4,SNIIM
+2023-06-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,56.96,SNIIM
+2023-06-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,58.3,SNIIM
+2023-06-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,42.56,SNIIM
+2023-07-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,51.64,SNIIM
+2023-07-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,56.02,SNIIM
+2023-07-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,67.28,SNIIM
+2023-07-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,54.06,SNIIM
+2023-07-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-07-15,Colima: Centros de distribución de Colima,aguacate_hass,72.25,SNIIM
+2023-07-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,61.0,SNIIM
+2023-07-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,71.4,SNIIM
+2023-07-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,69.02,SNIIM
+2023-07-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,80.76,SNIIM
+2023-07-15,Guanajuato: Central de Abasto de León,aguacate_hass,80.16,SNIIM
+2023-07-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,69.6,SNIIM
+2023-07-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-07-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,68.52,SNIIM
+2023-07-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,67.98,SNIIM
+2023-07-15,México: Central de Abasto de Ecatepec,aguacate_hass,73.1,SNIIM
+2023-07-15,México: Central de Abasto de Toluca,aguacate_hass,78.6,SNIIM
+2023-07-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,70.72,SNIIM
+2023-07-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,68.75,SNIIM
+2023-07-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,72.0,SNIIM
+2023-07-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,58.36,SNIIM
+2023-07-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,59.24,SNIIM
+2023-07-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,79.11,SNIIM
+2023-07-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,30.92,SNIIM
+2023-07-15,Puebla: Central de Abasto de Puebla,aguacate_hass,43.52,SNIIM
+2023-07-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,74.34,SNIIM
+2023-07-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,96.8,SNIIM
+2023-07-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,61.32,SNIIM
+2023-07-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,72.48,SNIIM
+2023-07-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,70.64,SNIIM
+2023-07-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,57.7,SNIIM
+2023-07-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,74.64,SNIIM
+2023-07-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,70.65,SNIIM
+2023-07-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,81.6,SNIIM
+2023-07-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,62.4,SNIIM
+2023-07-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,72.8,SNIIM
+2023-07-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,51.72,SNIIM
+2023-07-15,Veracruz: Mercado Malibrán,aguacate_hass,76.93,SNIIM
+2023-07-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,72.87,SNIIM
+2023-07-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,85.1,SNIIM
+2023-07-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,52.0,SNIIM
+2023-07-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,51.28,SNIIM
+2023-08-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,55.41,SNIIM
+2023-08-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,44.81,SNIIM
+2023-08-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,75.0,SNIIM
+2023-08-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,50.39,SNIIM
+2023-08-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-08-15,Colima: Centros de distribución de Colima,aguacate_hass,76.0,SNIIM
+2023-08-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,55.64,SNIIM
+2023-08-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,71.9,SNIIM
+2023-08-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,56.47,SNIIM
+2023-08-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,78.2,SNIIM
+2023-08-15,Guanajuato: Central de Abasto de León,aguacate_hass,78.08,SNIIM
+2023-08-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,66.0,SNIIM
+2023-08-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-08-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,68.01,SNIIM
+2023-08-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,67.54,SNIIM
+2023-08-15,México: Central de Abasto de Ecatepec,aguacate_hass,58.88,SNIIM
+2023-08-15,México: Central de Abasto de Toluca,aguacate_hass,79.6,SNIIM
+2023-08-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,76.8,SNIIM
+2023-08-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,50.0,SNIIM
+2023-08-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,75.25,SNIIM
+2023-08-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,62.87,SNIIM
+2023-08-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,68.0,SNIIM
+2023-08-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,85.69,SNIIM
+2023-08-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,30.73,SNIIM
+2023-08-15,Puebla: Central de Abasto de Puebla,aguacate_hass,40.55,SNIIM
+2023-08-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,65.42,SNIIM
+2023-08-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,99.6,SNIIM
+2023-08-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,58.42,SNIIM
+2023-08-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,67.32,SNIIM
+2023-08-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,68.38,SNIIM
+2023-08-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,59.89,SNIIM
+2023-08-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,72.29,SNIIM
+2023-08-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,62.27,SNIIM
+2023-08-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,84.62,SNIIM
+2023-08-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,59.16,SNIIM
+2023-08-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,74.28,SNIIM
+2023-08-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,57.0,SNIIM
+2023-08-15,Veracruz: Mercado Malibrán,aguacate_hass,88.33,SNIIM
+2023-08-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,74.61,SNIIM
+2023-08-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,73.2,SNIIM
+2023-08-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,51.42,SNIIM
+2023-09-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,60.68,SNIIM
+2023-09-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,49.92,SNIIM
+2023-09-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,75.2,SNIIM
+2023-09-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,42.65,SNIIM
+2023-09-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.0,SNIIM
+2023-09-15,Colima: Centros de distribución de Colima,aguacate_hass,68.8,SNIIM
+2023-09-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,63.6,SNIIM
+2023-09-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,64.8,SNIIM
+2023-09-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,47.87,SNIIM
+2023-09-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,78.84,SNIIM
+2023-09-15,Guanajuato: Central de Abasto de León,aguacate_hass,60.68,SNIIM
+2023-09-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,68.0,SNIIM
+2023-09-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-09-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,62.94,SNIIM
+2023-09-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,64.04,SNIIM
+2023-09-15,México: Central de Abasto de Ecatepec,aguacate_hass,61.5,SNIIM
+2023-09-15,México: Central de Abasto de Toluca,aguacate_hass,57.48,SNIIM
+2023-09-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,76.07,SNIIM
+2023-09-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,47.0,SNIIM
+2023-09-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,48.75,SNIIM
+2023-09-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,68.84,SNIIM
+2023-09-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,71.36,SNIIM
+2023-09-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,30.57,SNIIM
+2023-09-15,Puebla: Central de Abasto de Puebla,aguacate_hass,36.2,SNIIM
+2023-09-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,53.68,SNIIM
+2023-09-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,95.4,SNIIM
+2023-09-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,48.24,SNIIM
+2023-09-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,61.36,SNIIM
+2023-09-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,60.36,SNIIM
+2023-09-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,48.12,SNIIM
+2023-09-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,68.32,SNIIM
+2023-09-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,56.35,SNIIM
+2023-09-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,82.5,SNIIM
+2023-09-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,49.21,SNIIM
+2023-09-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,70.2,SNIIM
+2023-09-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,57.0,SNIIM
+2023-09-15,Veracruz: Mercado Malibrán,aguacate_hass,85.93,SNIIM
+2023-09-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,58.4,SNIIM
+2023-09-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,66.65,SNIIM
+2023-09-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,68.27,SNIIM
+2023-09-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,55.0,SNIIM
+2023-10-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,61.2,SNIIM
+2023-10-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,55.96,SNIIM
+2023-10-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,76.63,SNIIM
+2023-10-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,37.42,SNIIM
+2023-10-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,79.36,SNIIM
+2023-10-15,Colima: Centros de distribución de Colima,aguacate_hass,67.6,SNIIM
+2023-10-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,67.68,SNIIM
+2023-10-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,54.7,SNIIM
+2023-10-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,48.36,SNIIM
+2023-10-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,55.12,SNIIM
+2023-10-15,Guanajuato: Central de Abasto de León,aguacate_hass,45.72,SNIIM
+2023-10-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,58.0,SNIIM
+2023-10-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-10-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,56.16,SNIIM
+2023-10-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,54.98,SNIIM
+2023-10-15,México: Central de Abasto de Ecatepec,aguacate_hass,50.5,SNIIM
+2023-10-15,México: Central de Abasto de Toluca,aguacate_hass,35.08,SNIIM
+2023-10-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,59.6,SNIIM
+2023-10-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,47.0,SNIIM
+2023-10-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,43.6,SNIIM
+2023-10-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,50.36,SNIIM
+2023-10-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,52.4,SNIIM
+2023-10-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,28.98,SNIIM
+2023-10-15,Puebla: Central de Abasto de Puebla,aguacate_hass,32.0,SNIIM
+2023-10-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,47.16,SNIIM
+2023-10-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,76.4,SNIIM
+2023-10-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,44.56,SNIIM
+2023-10-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,79.56,SNIIM
+2023-10-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,80.07,SNIIM
+2023-10-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,35.6,SNIIM
+2023-10-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,47.72,SNIIM
+2023-10-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,43.5,SNIIM
+2023-10-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,85.56,SNIIM
+2023-10-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,48.33,SNIIM
+2023-10-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,62.04,SNIIM
+2023-10-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,57.16,SNIIM
+2023-10-15,Veracruz: Mercado Malibrán,aguacate_hass,83.33,SNIIM
+2023-10-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,55.38,SNIIM
+2023-10-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,61.72,SNIIM
+2023-10-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,46.6,SNIIM
+2023-11-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,45.51,SNIIM
+2023-11-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,49.74,SNIIM
+2023-11-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,70.2,SNIIM
+2023-11-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,35.77,SNIIM
+2023-11-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,78.48,SNIIM
+2023-11-15,Colima: Centros de distribución de Colima,aguacate_hass,62.1,SNIIM
+2023-11-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,61.37,SNIIM
+2023-11-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,49.73,SNIIM
+2023-11-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,45.04,SNIIM
+2023-11-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,51.8,SNIIM
+2023-11-15,Guanajuato: Central de Abasto de León,aguacate_hass,45.0,SNIIM
+2023-11-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.17,SNIIM
+2023-11-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,38.44,SNIIM
+2023-11-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,51.55,SNIIM
+2023-11-15,México: Central de Abasto de Ecatepec,aguacate_hass,45.5,SNIIM
+2023-11-15,México: Central de Abasto de Toluca,aguacate_hass,38.0,SNIIM
+2023-11-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,56.16,SNIIM
+2023-11-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,45.0,SNIIM
+2023-11-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,42.75,SNIIM
+2023-11-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,44.99,SNIIM
+2023-11-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,45.15,SNIIM
+2023-11-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,27.77,SNIIM
+2023-11-15,Puebla: Central de Abasto de Puebla,aguacate_hass,33.2,SNIIM
+2023-11-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,42.5,SNIIM
+2023-11-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,65.2,SNIIM
+2023-11-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,40.56,SNIIM
+2023-11-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,65.18,SNIIM
+2023-11-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,67.25,SNIIM
+2023-11-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,35.05,SNIIM
+2023-11-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,49.17,SNIIM
+2023-11-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,40.33,SNIIM
+2023-11-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,84.0,SNIIM
+2023-11-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,46.99,SNIIM
+2023-11-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,58.44,SNIIM
+2023-11-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,54.8,SNIIM
+2023-11-15,Veracruz: Mercado Malibrán,aguacate_hass,63.22,SNIIM
+2023-11-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,47.46,SNIIM
+2023-11-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,57.3,SNIIM
+2023-11-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,52.65,SNIIM
+2023-11-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,43.68,SNIIM
+2023-12-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,40.56,SNIIM
+2023-12-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,50.43,SNIIM
+2023-12-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,66.04,SNIIM
+2023-12-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,32.78,SNIIM
+2023-12-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,79.0,SNIIM
+2023-12-15,Colima: Centros de distribución de Colima,aguacate_hass,50.3,SNIIM
+2023-12-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,48.8,SNIIM
+2023-12-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,43.62,SNIIM
+2023-12-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,38.99,SNIIM
+2023-12-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,55.8,SNIIM
+2023-12-15,Guanajuato: Central de Abasto de León,aguacate_hass,45.0,SNIIM
+2023-12-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,34.42,SNIIM
+2023-12-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,32.36,SNIIM
+2023-12-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,33.09,SNIIM
+2023-12-15,México: Central de Abasto de Ecatepec,aguacate_hass,44.1,SNIIM
+2023-12-15,México: Central de Abasto de Toluca,aguacate_hass,39.25,SNIIM
+2023-12-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,51.89,SNIIM
+2023-12-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,40.0,SNIIM
+2023-12-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,37.25,SNIIM
+2023-12-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,45.2,SNIIM
+2023-12-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,47.8,SNIIM
+2023-12-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,27.03,SNIIM
+2023-12-15,Puebla: Central de Abasto de Puebla,aguacate_hass,33.48,SNIIM
+2023-12-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,39.17,SNIIM
+2023-12-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,67.24,SNIIM
+2023-12-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,38.06,SNIIM
+2023-12-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,63.92,SNIIM
+2023-12-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,64.3,SNIIM
+2023-12-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,33.53,SNIIM
+2023-12-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,51.18,SNIIM
+2023-12-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,37.97,SNIIM
+2023-12-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,76.32,SNIIM
+2023-12-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,39.61,SNIIM
+2023-12-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,56.81,SNIIM
+2023-12-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,51.52,SNIIM
+2023-12-15,Veracruz: Mercado Malibrán,aguacate_hass,59.82,SNIIM
+2023-12-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,37.8,SNIIM
+2023-12-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,55.4,SNIIM
+2023-12-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,46.52,SNIIM
+2023-12-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,40.72,SNIIM
+2024-01-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,40.32,SNIIM
+2024-01-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,52.07,SNIIM
+2024-01-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,68.19,SNIIM
+2024-01-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,31.54,SNIIM
+2024-01-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,79.27,SNIIM
+2024-01-15,Colima: Centros de distribución de Colima,aguacate_hass,50.9,SNIIM
+2024-01-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,38.16,SNIIM
+2024-01-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,40.0,SNIIM
+2024-01-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,38.46,SNIIM
+2024-01-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,54.8,SNIIM
+2024-01-15,Guanajuato: Central de Abasto de León,aguacate_hass,39.99,SNIIM
+2024-01-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,37.58,SNIIM
+2024-01-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,39.73,SNIIM
+2024-01-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,36.31,SNIIM
+2024-01-15,México: Central de Abasto de Ecatepec,aguacate_hass,43.5,SNIIM
+2024-01-15,México: Central de Abasto de Toluca,aguacate_hass,32.2,SNIIM
+2024-01-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,51.16,SNIIM
+2024-01-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,38.5,SNIIM
+2024-01-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,34.8,SNIIM
+2024-01-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,45.05,SNIIM
+2024-01-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,43.49,SNIIM
+2024-01-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,40.11,SNIIM
+2024-01-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,25.39,SNIIM
+2024-01-15,Puebla: Central de Abasto de Puebla,aguacate_hass,37.29,SNIIM
+2024-01-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,40.5,SNIIM
+2024-01-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,82.25,SNIIM
+2024-01-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,37.49,SNIIM
+2024-01-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,61.87,SNIIM
+2024-01-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,65.12,SNIIM
+2024-01-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,43.08,SNIIM
+2024-01-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,54.39,SNIIM
+2024-01-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,36.07,SNIIM
+2024-01-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,66.1,SNIIM
+2024-01-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,38.36,SNIIM
+2024-01-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,44.68,SNIIM
+2024-01-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,45.8,SNIIM
+2024-01-15,Veracruz: Mercado Malibrán,aguacate_hass,55.56,SNIIM
+2024-01-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,54.0,SNIIM
+2024-01-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,55.0,SNIIM
+2024-01-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,40.0,SNIIM
+2024-03-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,27.49,SNIIM
+2024-03-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,41.16,SNIIM
+2024-03-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,59.68,SNIIM
+2024-03-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,33.6,SNIIM
+2024-03-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,82.0,SNIIM
+2024-03-15,Colima: Centros de distribución de Colima,aguacate_hass,57.1,SNIIM
+2024-03-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,38.77,SNIIM
+2024-03-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,43.6,SNIIM
+2024-03-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,35.13,SNIIM
+2024-03-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,50.0,SNIIM
+2024-03-15,Guanajuato: Central de Abasto de León,aguacate_hass,45.85,SNIIM
+2024-03-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,35.51,SNIIM
+2024-03-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,45.08,SNIIM
+2024-03-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,36.71,SNIIM
+2024-03-15,México: Central de Abasto de Ecatepec,aguacate_hass,50.0,SNIIM
+2024-03-15,México: Central de Abasto de Toluca,aguacate_hass,43.3,SNIIM
+2024-03-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,40.32,SNIIM
+2024-03-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,34.84,SNIIM
+2024-03-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,39.0,SNIIM
+2024-03-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,53.55,SNIIM
+2024-03-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,53.55,SNIIM
+2024-03-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,45.36,SNIIM
+2024-03-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,20.67,SNIIM
+2024-03-15,Puebla: Central de Abasto de Puebla,aguacate_hass,33.6,SNIIM
+2024-03-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,42.92,SNIIM
+2024-03-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,62.05,SNIIM
+2024-03-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,38.9,SNIIM
+2024-03-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,51.33,SNIIM
+2024-03-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,51.33,SNIIM
+2024-03-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,36.12,SNIIM
+2024-03-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,51.79,SNIIM
+2024-03-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,39.53,SNIIM
+2024-03-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,62.96,SNIIM
+2024-03-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,36.42,SNIIM
+2024-03-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,53.4,SNIIM
+2024-03-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,39.49,SNIIM
+2024-03-15,Veracruz: Mercado Malibrán,aguacate_hass,50.04,SNIIM
+2024-03-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,45.88,SNIIM
+2024-03-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,59.12,SNIIM
+2024-03-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,53.11,SNIIM
+2024-03-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,39.18,SNIIM
+2024-04-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,35.62,SNIIM
+2024-04-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,45.08,SNIIM
+2024-04-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,75.84,SNIIM
+2024-04-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,38.77,SNIIM
+2024-04-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,82.0,SNIIM
+2024-04-15,Colima: Centros de distribución de Colima,aguacate_hass,65.6,SNIIM
+2024-04-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,40.5,SNIIM
+2024-04-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,60.48,SNIIM
+2024-04-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,40.73,SNIIM
+2024-04-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,60.8,SNIIM
+2024-04-15,Guanajuato: Central de Abasto de León,aguacate_hass,57.42,SNIIM
+2024-04-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,38.04,SNIIM
+2024-04-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,52.21,SNIIM
+2024-04-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,46.73,SNIIM
+2024-04-15,México: Central de Abasto de Ecatepec,aguacate_hass,54.7,SNIIM
+2024-04-15,México: Central de Abasto de Toluca,aguacate_hass,54.2,SNIIM
+2024-04-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,47.6,SNIIM
+2024-04-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,37.7,SNIIM
+2024-04-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,38.0,SNIIM
+2024-04-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,66.22,SNIIM
+2024-04-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,69.74,SNIIM
+2024-04-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,57.16,SNIIM
+2024-04-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,22.27,SNIIM
+2024-04-15,Puebla: Central de Abasto de Puebla,aguacate_hass,40.4,SNIIM
+2024-04-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,54.92,SNIIM
+2024-04-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,69.8,SNIIM
+2024-04-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,48.84,SNIIM
+2024-04-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,59.36,SNIIM
+2024-04-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,59.8,SNIIM
+2024-04-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,45.76,SNIIM
+2024-04-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,53.6,SNIIM
+2024-04-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,50.47,SNIIM
+2024-04-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,77.4,SNIIM
+2024-04-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,41.19,SNIIM
+2024-04-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,63.8,SNIIM
+2024-04-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,45.96,SNIIM
+2024-04-15,Veracruz: Mercado Malibrán,aguacate_hass,58.62,SNIIM
+2024-04-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,42.69,SNIIM
+2024-04-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,67.2,SNIIM
+2024-04-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,52.06,SNIIM
+2024-04-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,47.38,SNIIM
+2024-05-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,52.08,SNIIM
+2024-05-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,55.22,SNIIM
+2024-05-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,76.0,SNIIM
+2024-05-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,41.78,SNIIM
+2024-05-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,82.0,SNIIM
+2024-05-15,Colima: Centros de distribución de Colima,aguacate_hass,68.0,SNIIM
+2024-05-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,36.6,SNIIM
+2024-05-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,60.04,SNIIM
+2024-05-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,51.82,SNIIM
+2024-05-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,72.0,SNIIM
+2024-05-15,Guanajuato: Central de Abasto de León,aguacate_hass,61.68,SNIIM
+2024-05-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,36.52,SNIIM
+2024-05-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,54.82,SNIIM
+2024-05-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,54.21,SNIIM
+2024-05-15,México: Central de Abasto de Ecatepec,aguacate_hass,63.0,SNIIM
+2024-05-15,México: Central de Abasto de Toluca,aguacate_hass,57.8,SNIIM
+2024-05-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,47.24,SNIIM
+2024-05-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,49.45,SNIIM
+2024-05-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,57.5,SNIIM
+2024-05-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,64.32,SNIIM
+2024-05-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,68.92,SNIIM
+2024-05-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,63.2,SNIIM
+2024-05-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,23.97,SNIIM
+2024-05-15,Puebla: Central de Abasto de Puebla,aguacate_hass,45.04,SNIIM
+2024-05-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,57.38,SNIIM
+2024-05-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,75.2,SNIIM
+2024-05-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,48.76,SNIIM
+2024-05-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,59.24,SNIIM
+2024-05-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,61.36,SNIIM
+2024-05-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,54.44,SNIIM
+2024-05-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,63.56,SNIIM
+2024-05-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,54.67,SNIIM
+2024-05-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,84.04,SNIIM
+2024-05-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,48.64,SNIIM
+2024-05-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,74.0,SNIIM
+2024-05-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,54.8,SNIIM
+2024-05-15,Veracruz: Mercado Malibrán,aguacate_hass,57.24,SNIIM
+2024-05-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,45.24,SNIIM
+2024-05-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,73.44,SNIIM
+2024-05-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,56.0,SNIIM
+2024-05-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,48.16,SNIIM
+2024-06-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,64.15,SNIIM
+2024-06-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,73.3,SNIIM
+2024-06-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,83.0,SNIIM
+2024-06-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,52.21,SNIIM
+2024-06-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,82.0,SNIIM
+2024-06-15,Colima: Centros de distribución de Colima,aguacate_hass,83.38,SNIIM
+2024-06-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,50.95,SNIIM
+2024-06-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,77.0,SNIIM
+2024-06-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,75.22,SNIIM
+2024-06-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,80.5,SNIIM
+2024-06-15,Guanajuato: Central de Abasto de León,aguacate_hass,78.7,SNIIM
+2024-06-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,48.29,SNIIM
+2024-06-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,66.08,SNIIM
+2024-06-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,68.17,SNIIM
+2024-06-15,México: Central de Abasto de Ecatepec,aguacate_hass,76.88,SNIIM
+2024-06-15,México: Central de Abasto de Toluca,aguacate_hass,78.5,SNIIM
+2024-06-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,50.26,SNIIM
+2024-06-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,67.25,SNIIM
+2024-06-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,83.75,SNIIM
+2024-06-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,71.54,SNIIM
+2024-06-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,71.61,SNIIM
+2024-06-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,77.54,SNIIM
+2024-06-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,25.71,SNIIM
+2024-06-15,Puebla: Central de Abasto de Puebla,aguacate_hass,61.05,SNIIM
+2024-06-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,77.75,SNIIM
+2024-06-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,100.6,SNIIM
+2024-06-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,60.7,SNIIM
+2024-06-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,60.95,SNIIM
+2024-06-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,56.73,SNIIM
+2024-06-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,64.0,SNIIM
+2024-06-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,83.15,SNIIM
+2024-06-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,69.72,SNIIM
+2024-06-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,88.7,SNIIM
+2024-06-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,62.2,SNIIM
+2024-06-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,90.5,SNIIM
+2024-06-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,63.95,SNIIM
+2024-06-15,Veracruz: Mercado Malibrán,aguacate_hass,83.61,SNIIM
+2024-06-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,62.67,SNIIM
+2024-06-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,85.5,SNIIM
+2024-06-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,59.95,SNIIM
+2024-07-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,73.72,SNIIM
+2024-07-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,87.36,SNIIM
+2024-07-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,96.32,SNIIM
+2024-07-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,56.92,SNIIM
+2024-07-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,82.0,SNIIM
+2024-07-15,Colima: Centros de distribución de Colima,aguacate_hass,92.1,SNIIM
+2024-07-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,76.49,SNIIM
+2024-07-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,83.53,SNIIM
+2024-07-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,93.16,SNIIM
+2024-07-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,104.0,SNIIM
+2024-07-15,Guanajuato: Central de Abasto de León,aguacate_hass,88.61,SNIIM
+2024-07-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,130.0,SNIIM
+2024-07-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,61.08,SNIIM
+2024-07-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,69.13,SNIIM
+2024-07-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,75.16,SNIIM
+2024-07-15,México: Central de Abasto de Ecatepec,aguacate_hass,87.77,SNIIM
+2024-07-15,México: Central de Abasto de Toluca,aguacate_hass,88.0,SNIIM
+2024-07-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,80.26,SNIIM
+2024-07-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,86.6,SNIIM
+2024-07-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,109.0,SNIIM
+2024-07-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,97.0,SNIIM
+2024-07-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,97.47,SNIIM
+2024-07-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,89.87,SNIIM
+2024-07-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,39.47,SNIIM
+2024-07-15,Puebla: Central de Abasto de Puebla,aguacate_hass,70.2,SNIIM
+2024-07-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,83.11,SNIIM
+2024-07-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,108.0,SNIIM
+2024-07-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,68.63,SNIIM
+2024-07-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,85.41,SNIIM
+2024-07-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,82.57,SNIIM
+2024-07-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,75.8,SNIIM
+2024-07-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,88.48,SNIIM
+2024-07-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,78.27,SNIIM
+2024-07-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,105.68,SNIIM
+2024-07-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,93.91,SNIIM
+2024-07-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,95.6,SNIIM
+2024-07-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,79.8,SNIIM
+2024-07-15,Veracruz: Mercado Malibrán,aguacate_hass,98.71,SNIIM
+2024-07-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,82.93,SNIIM
+2024-07-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,89.76,SNIIM
+2024-07-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,66.79,SNIIM
+2024-08-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,73.5,SNIIM
+2024-08-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,85.9,SNIIM
+2024-08-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,101.0,SNIIM
+2024-08-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,57.38,SNIIM
+2024-08-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,80.92,SNIIM
+2024-08-15,Colima: Centros de distribución de Colima,aguacate_hass,92.3,SNIIM
+2024-08-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,73.34,SNIIM
+2024-08-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,85.4,SNIIM
+2024-08-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,83.89,SNIIM
+2024-08-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,110.0,SNIIM
+2024-08-15,Guanajuato: Central de Abasto de León,aguacate_hass,95.56,SNIIM
+2024-08-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,128.75,SNIIM
+2024-08-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,49.3,SNIIM
+2024-08-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,66.4,SNIIM
+2024-08-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,64.02,SNIIM
+2024-08-15,México: Central de Abasto de Ecatepec,aguacate_hass,82.2,SNIIM
+2024-08-15,México: Central de Abasto de Toluca,aguacate_hass,87.8,SNIIM
+2024-08-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,77.89,SNIIM
+2024-08-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,80.0,SNIIM
+2024-08-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,88.75,SNIIM
+2024-08-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,82.9,SNIIM
+2024-08-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,85.55,SNIIM
+2024-08-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,79.72,SNIIM
+2024-08-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,45.0,SNIIM
+2024-08-15,Puebla: Central de Abasto de Puebla,aguacate_hass,63.9,SNIIM
+2024-08-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,86.2,SNIIM
+2024-08-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,121.4,SNIIM
+2024-08-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,69.28,SNIIM
+2024-08-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,90.0,SNIIM
+2024-08-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,90.28,SNIIM
+2024-08-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,72.98,SNIIM
+2024-08-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,90.88,SNIIM
+2024-08-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,76.27,SNIIM
+2024-08-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,105.0,SNIIM
+2024-08-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,88.08,SNIIM
+2024-08-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,93.8,SNIIM
+2024-08-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,82.4,SNIIM
+2024-08-15,Veracruz: Mercado Malibrán,aguacate_hass,93.73,SNIIM
+2024-08-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,81.2,SNIIM
+2024-08-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,105.2,SNIIM
+2024-08-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,56.64,SNIIM
+2024-09-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,60.1,SNIIM
+2024-09-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,82.9,SNIIM
+2024-09-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,88.8,SNIIM
+2024-09-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,53.04,SNIIM
+2024-09-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,64.6,SNIIM
+2024-09-15,Colima: Centros de distribución de Colima,aguacate_hass,83.88,SNIIM
+2024-09-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,71.9,SNIIM
+2024-09-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,77.22,SNIIM
+2024-09-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,83.81,SNIIM
+2024-09-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,93.0,SNIIM
+2024-09-15,Guanajuato: Central de Abasto de León,aguacate_hass,79.35,SNIIM
+2024-09-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,126.0,SNIIM
+2024-09-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,41.89,SNIIM
+2024-09-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,64.87,SNIIM
+2024-09-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,73.92,SNIIM
+2024-09-15,México: Central de Abasto de Ecatepec,aguacate_hass,70.3,SNIIM
+2024-09-15,México: Central de Abasto de Toluca,aguacate_hass,71.0,SNIIM
+2024-09-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,69.47,SNIIM
+2024-09-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,80.7,SNIIM
+2024-09-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,76.0,SNIIM
+2024-09-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,72.74,SNIIM
+2024-09-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,74.97,SNIIM
+2024-09-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,43.69,SNIIM
+2024-09-15,Puebla: Central de Abasto de Puebla,aguacate_hass,55.17,SNIIM
+2024-09-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,66.71,SNIIM
+2024-09-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,125.4,SNIIM
+2024-09-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,61.94,SNIIM
+2024-09-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,97.12,SNIIM
+2024-09-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,96.17,SNIIM
+2024-09-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,75.48,SNIIM
+2024-09-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,76.18,SNIIM
+2024-09-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,71.96,SNIIM
+2024-09-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,108.65,SNIIM
+2024-09-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,85.86,SNIIM
+2024-09-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,81.0,SNIIM
+2024-09-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,80.8,SNIIM
+2024-09-15,Veracruz: Mercado Malibrán,aguacate_hass,89.31,SNIIM
+2024-09-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,100.97,SNIIM
+2024-09-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,108.72,SNIIM
+2024-09-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,55.68,SNIIM
+2024-10-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,53.73,SNIIM
+2024-10-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,73.63,SNIIM
+2024-10-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,77.2,SNIIM
+2024-10-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,48.51,SNIIM
+2024-10-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,55.0,SNIIM
+2024-10-15,Colima: Centros de distribución de Colima,aguacate_hass,82.0,SNIIM
+2024-10-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,55.19,SNIIM
+2024-10-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,70.0,SNIIM
+2024-10-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,60.61,SNIIM
+2024-10-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,88.83,SNIIM
+2024-10-15,Guanajuato: Central de Abasto de León,aguacate_hass,60.57,SNIIM
+2024-10-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,112.0,SNIIM
+2024-10-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,37.35,SNIIM
+2024-10-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,58.12,SNIIM
+2024-10-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,71.4,SNIIM
+2024-10-15,México: Central de Abasto de Ecatepec,aguacate_hass,68.8,SNIIM
+2024-10-15,México: Central de Abasto de Toluca,aguacate_hass,55.93,SNIIM
+2024-10-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,62.18,SNIIM
+2024-10-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,68.8,SNIIM
+2024-10-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,65.0,SNIIM
+2024-10-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,71.1,SNIIM
+2024-10-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,73.94,SNIIM
+2024-10-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,40.7,SNIIM
+2024-10-15,Puebla: Central de Abasto de Puebla,aguacate_hass,45.68,SNIIM
+2024-10-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,64.55,SNIIM
+2024-10-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,104.64,SNIIM
+2024-10-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,58.08,SNIIM
+2024-10-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,93.84,SNIIM
+2024-10-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,95.68,SNIIM
+2024-10-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,74.28,SNIIM
+2024-10-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,74.95,SNIIM
+2024-10-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,57.2,SNIIM
+2024-10-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,104.83,SNIIM
+2024-10-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,82.65,SNIIM
+2024-10-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,74.25,SNIIM
+2024-10-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,72.6,SNIIM
+2024-10-15,Veracruz: Mercado Malibrán,aguacate_hass,90.71,SNIIM
+2024-10-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,86.01,SNIIM
+2024-10-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,85.76,SNIIM
+2024-10-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,54.22,SNIIM
+2024-11-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,49.22,SNIIM
+2024-11-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,52.72,SNIIM
+2024-11-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,76.0,SNIIM
+2024-11-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,45.11,SNIIM
+2024-11-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,55.0,SNIIM
+2024-11-15,Colima: Centros de distribución de Colima,aguacate_hass,80.2,SNIIM
+2024-11-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,56.07,SNIIM
+2024-11-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,61.8,SNIIM
+2024-11-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,54.86,SNIIM
+2024-11-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,83.08,SNIIM
+2024-11-15,Guanajuato: Central de Abasto de León,aguacate_hass,64.85,SNIIM
+2024-11-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,102.0,SNIIM
+2024-11-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,36.05,SNIIM
+2024-11-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,49.74,SNIIM
+2024-11-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,51.07,SNIIM
+2024-11-15,México: Central de Abasto de Ecatepec,aguacate_hass,62.0,SNIIM
+2024-11-15,México: Central de Abasto de Toluca,aguacate_hass,43.2,SNIIM
+2024-11-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,55.66,SNIIM
+2024-11-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,61.5,SNIIM
+2024-11-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,48.33,SNIIM
+2024-11-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,76.25,SNIIM
+2024-11-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,78.14,SNIIM
+2024-11-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,36.72,SNIIM
+2024-11-15,Puebla: Central de Abasto de Puebla,aguacate_hass,38.53,SNIIM
+2024-11-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,59.12,SNIIM
+2024-11-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,104.0,SNIIM
+2024-11-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,54.08,SNIIM
+2024-11-15,"Sinaloa: Central de Abasto ""La Yarda"" de los Mochis",aguacate_hass,83.0,SNIIM
+2024-11-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,82.58,SNIIM
+2024-11-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,84.28,SNIIM
+2024-11-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,74.34,SNIIM
+2024-11-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,72.89,SNIIM
+2024-11-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,53.8,SNIIM
+2024-11-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,102.75,SNIIM
+2024-11-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,74.33,SNIIM
+2024-11-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,64.8,SNIIM
+2024-11-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,62.0,SNIIM
+2024-11-15,Veracruz: Mercado Malibrán,aguacate_hass,86.11,SNIIM
+2024-11-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,68.38,SNIIM
+2024-11-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,85.6,SNIIM
+2024-11-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,42.0,SNIIM
+2024-12-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,47.36,SNIIM
+2024-12-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,55.99,SNIIM
+2024-12-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,87.6,SNIIM
+2024-12-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,39.69,SNIIM
+2024-12-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,55.0,SNIIM
+2024-12-15,Colima: Centros de distribución de Colima,aguacate_hass,83.2,SNIIM
+2024-12-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,79.3,SNIIM
+2024-12-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,61.0,SNIIM
+2024-12-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,51.71,SNIIM
+2024-12-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,70.0,SNIIM
+2024-12-15,Guanajuato: Central de Abasto de León,aguacate_hass,65.2,SNIIM
+2024-12-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,100.4,SNIIM
+2024-12-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,32.1,SNIIM
+2024-12-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,43.89,SNIIM
+2024-12-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,50.42,SNIIM
+2024-12-15,México: Central de Abasto de Ecatepec,aguacate_hass,59.0,SNIIM
+2024-12-15,México: Central de Abasto de Toluca,aguacate_hass,50.0,SNIIM
+2024-12-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,54.84,SNIIM
+2024-12-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,50.0,SNIIM
+2024-12-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,45.0,SNIIM
+2024-12-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,83.8,SNIIM
+2024-12-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,85.96,SNIIM
+2024-12-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,35.93,SNIIM
+2024-12-15,Puebla: Central de Abasto de Puebla,aguacate_hass,35.72,SNIIM
+2024-12-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,57.15,SNIIM
+2024-12-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,106.0,SNIIM
+2024-12-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,46.12,SNIIM
+2024-12-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,84.36,SNIIM
+2024-12-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,81.88,SNIIM
+2024-12-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,74.1,SNIIM
+2024-12-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,70.38,SNIIM
+2024-12-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,46.27,SNIIM
+2024-12-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,93.26,SNIIM
+2024-12-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,61.96,SNIIM
+2024-12-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,74.5,SNIIM
+2024-12-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,70.02,SNIIM
+2024-12-15,Veracruz: Mercado Malibrán,aguacate_hass,94.22,SNIIM
+2024-12-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,70.33,SNIIM
+2024-12-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,81.88,SNIIM
+2024-12-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,46.06,SNIIM
+2025-01-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,48.12,SNIIM
+2025-01-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,48.24,SNIIM
+2025-01-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,92.0,SNIIM
+2025-01-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,39.26,SNIIM
+2025-01-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,56.6,SNIIM
+2025-01-15,Colima: Centros de distribución de Colima,aguacate_hass,82.9,SNIIM
+2025-01-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,69.0,SNIIM
+2025-01-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,64.04,SNIIM
+2025-01-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,59.36,SNIIM
+2025-01-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,76.67,SNIIM
+2025-01-15,Guanajuato: Central de Abasto de León,aguacate_hass,60.44,SNIIM
+2025-01-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,100.0,SNIIM
+2025-01-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,35.75,SNIIM
+2025-01-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,53.36,SNIIM
+2025-01-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,54.76,SNIIM
+2025-01-15,México: Central de Abasto de Ecatepec,aguacate_hass,63.65,SNIIM
+2025-01-15,México: Central de Abasto de Toluca,aguacate_hass,61.2,SNIIM
+2025-01-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,55.04,SNIIM
+2025-01-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,52.5,SNIIM
+2025-01-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,47.75,SNIIM
+2025-01-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,87.0,SNIIM
+2025-01-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,89.0,SNIIM
+2025-01-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,38.49,SNIIM
+2025-01-15,Puebla: Central de Abasto de Puebla,aguacate_hass,40.0,SNIIM
+2025-01-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,62.94,SNIIM
+2025-01-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,106.8,SNIIM
+2025-01-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,49.16,SNIIM
+2025-01-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,85.04,SNIIM
+2025-01-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,83.95,SNIIM
+2025-01-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,75.35,SNIIM
+2025-01-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,74.84,SNIIM
+2025-01-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,47.03,SNIIM
+2025-01-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,94.5,SNIIM
+2025-01-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,54.7,SNIIM
+2025-01-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,76.8,SNIIM
+2025-01-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,68.72,SNIIM
+2025-01-15,Veracruz: Mercado Malibrán,aguacate_hass,82.93,SNIIM
+2025-01-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,60.45,SNIIM
+2025-01-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,88.0,SNIIM
+2025-01-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,49.44,SNIIM
+2025-02-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,36.06,SNIIM
+2025-02-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,69.84,SNIIM
+2025-02-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,97.81,SNIIM
+2025-02-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,42.79,SNIIM
+2025-02-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,63.95,SNIIM
+2025-02-15,Colima: Centros de distribución de Colima,aguacate_hass,83.13,SNIIM
+2025-02-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,55.3,SNIIM
+2025-02-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,68.44,SNIIM
+2025-02-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,62.15,SNIIM
+2025-02-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,92.5,SNIIM
+2025-02-15,Guanajuato: Central de Abasto de León,aguacate_hass,60.0,SNIIM
+2025-02-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,100.0,SNIIM
+2025-02-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,42.49,SNIIM
+2025-02-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,51.71,SNIIM
+2025-02-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,55.33,SNIIM
+2025-02-15,México: Central de Abasto de Ecatepec,aguacate_hass,69.34,SNIIM
+2025-02-15,México: Central de Abasto de Toluca,aguacate_hass,67.5,SNIIM
+2025-02-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,57.89,SNIIM
+2025-02-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,59.06,SNIIM
+2025-02-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,56.25,SNIIM
+2025-02-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,37.88,SNIIM
+2025-02-15,Puebla: Central de Abasto de Puebla,aguacate_hass,41.31,SNIIM
+2025-02-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,60.38,SNIIM
+2025-02-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,106.0,SNIIM
+2025-02-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,52.45,SNIIM
+2025-02-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,81.1,SNIIM
+2025-02-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,81.45,SNIIM
+2025-02-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,77.05,SNIIM
+2025-02-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,80.95,SNIIM
+2025-02-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,50.52,SNIIM
+2025-02-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,95.0,SNIIM
+2025-02-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,55.17,SNIIM
+2025-02-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,78.75,SNIIM
+2025-02-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,65.25,SNIIM
+2025-02-15,Veracruz: Mercado Malibrán,aguacate_hass,76.25,SNIIM
+2025-02-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,52.5,SNIIM
+2025-02-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,86.13,SNIIM
+2025-02-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,52.1,SNIIM
+2025-03-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,30.02,SNIIM
+2025-03-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,58.75,SNIIM
+2025-03-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,98.8,SNIIM
+2025-03-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,37.74,SNIIM
+2025-03-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,63.12,SNIIM
+2025-03-15,Colima: Centros de distribución de Colima,aguacate_hass,73.5,SNIIM
+2025-03-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,69.05,SNIIM
+2025-03-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,76.4,SNIIM
+2025-03-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,61.39,SNIIM
+2025-03-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,94.66,SNIIM
+2025-03-15,Guanajuato: Central de Abasto de León,aguacate_hass,70.04,SNIIM
+2025-03-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,107.2,SNIIM
+2025-03-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,47.78,SNIIM
+2025-03-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,61.24,SNIIM
+2025-03-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,64.37,SNIIM
+2025-03-15,México: Central de Abasto de Ecatepec,aguacate_hass,74.9,SNIIM
+2025-03-15,México: Central de Abasto de Toluca,aguacate_hass,75.5,SNIIM
+2025-03-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,52.72,SNIIM
+2025-03-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,60.0,SNIIM
+2025-03-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,63.6,SNIIM
+2025-03-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,88.52,SNIIM
+2025-03-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,38.96,SNIIM
+2025-03-15,Puebla: Central de Abasto de Puebla,aguacate_hass,47.61,SNIIM
+2025-03-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,74.83,SNIIM
+2025-03-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,110.0,SNIIM
+2025-03-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,61.2,SNIIM
+2025-03-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,76.58,SNIIM
+2025-03-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,76.75,SNIIM
+2025-03-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,75.6,SNIIM
+2025-03-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,88.06,SNIIM
+2025-03-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,54.7,SNIIM
+2025-03-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,107.6,SNIIM
+2025-03-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,55.87,SNIIM
+2025-03-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,83.6,SNIIM
+2025-03-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,68.6,SNIIM
+2025-03-15,Veracruz: Mercado Malibrán,aguacate_hass,74.44,SNIIM
+2025-03-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,90.22,SNIIM
+2025-03-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,57.32,SNIIM
+2025-04-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,52.96,SNIIM
+2025-04-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,104.0,SNIIM
+2025-04-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,42.85,SNIIM
+2025-04-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,74.33,SNIIM
+2025-04-15,Colima: Centros de distribución de Colima,aguacate_hass,65.75,SNIIM
+2025-04-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,75.67,SNIIM
+2025-04-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,82.03,SNIIM
+2025-04-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,61.86,SNIIM
+2025-04-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,97.16,SNIIM
+2025-04-15,Guanajuato: Central de Abasto de León,aguacate_hass,78.76,SNIIM
+2025-04-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,112.0,SNIIM
+2025-04-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,49.1,SNIIM
+2025-04-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,66.64,SNIIM
+2025-04-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,59.05,SNIIM
+2025-04-15,México: Central de Abasto de Ecatepec,aguacate_hass,85.4,SNIIM
+2025-04-15,México: Central de Abasto de Toluca,aguacate_hass,91.3,SNIIM
+2025-04-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,65.33,SNIIM
+2025-04-15,"Morelos: Central de Abasto ""Emiliano Zapata""",aguacate_hass,70.0,SNIIM
+2025-04-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,61.8,SNIIM
+2025-04-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,67.5,SNIIM
+2025-04-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,86.98,SNIIM
+2025-04-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,45.77,SNIIM
+2025-04-15,Puebla: Central de Abasto de Puebla,aguacate_hass,53.11,SNIIM
+2025-04-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,78.47,SNIIM
+2025-04-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,114.47,SNIIM
+2025-04-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,63.71,SNIIM
+2025-04-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,72.71,SNIIM
+2025-04-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,72.72,SNIIM
+2025-04-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,70.95,SNIIM
+2025-04-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,85.4,SNIIM
+2025-04-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,58.6,SNIIM
+2025-04-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,110.0,SNIIM
+2025-04-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,61.83,SNIIM
+2025-04-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,90.7,SNIIM
+2025-04-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,75.76,SNIIM
+2025-04-15,Veracruz: Mercado Malibrán,aguacate_hass,81.51,SNIIM
+2025-04-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,97.48,SNIIM
+2025-04-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,61.2,SNIIM
+2025-05-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,70.48,SNIIM
+2025-05-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,110.0,SNIIM
+2025-05-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,47.03,SNIIM
+2025-05-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,69.68,SNIIM
+2025-05-15,Colima: Centros de distribución de Colima,aguacate_hass,92.9,SNIIM
+2025-05-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,79.92,SNIIM
+2025-05-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,84.36,SNIIM
+2025-05-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,62.69,SNIIM
+2025-05-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,96.83,SNIIM
+2025-05-15,Guanajuato: Central de Abasto de León,aguacate_hass,80.22,SNIIM
+2025-05-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,128.0,SNIIM
+2025-05-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,50.74,SNIIM
+2025-05-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,75.75,SNIIM
+2025-05-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,63.32,SNIIM
+2025-05-15,México: Central de Abasto de Ecatepec,aguacate_hass,90.0,SNIIM
+2025-05-15,México: Central de Abasto de Toluca,aguacate_hass,95.75,SNIIM
+2025-05-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,70.0,SNIIM
+2025-05-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,66.25,SNIIM
+2025-05-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,78.75,SNIIM
+2025-05-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,90.39,SNIIM
+2025-05-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,51.5,SNIIM
+2025-05-15,Puebla: Central de Abasto de Puebla,aguacate_hass,57.16,SNIIM
+2025-05-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,79.5,SNIIM
+2025-05-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,120.32,SNIIM
+2025-05-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,67.16,SNIIM
+2025-05-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,89.26,SNIIM
+2025-05-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,89.29,SNIIM
+2025-05-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,73.25,SNIIM
+2025-05-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,92.08,SNIIM
+2025-05-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,60.83,SNIIM
+2025-05-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,115.6,SNIIM
+2025-05-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,65.34,SNIIM
+2025-05-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,89.8,SNIIM
+2025-05-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,85.15,SNIIM
+2025-05-15,Veracruz: Mercado Malibrán,aguacate_hass,84.27,SNIIM
+2025-05-15,Veracruz: Otros Centros Mayoristas de Xalapa,aguacate_hass,95.0,SNIIM
+2025-05-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,80.45,SNIIM
+2025-05-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,98.0,SNIIM
+2025-05-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,60.0,SNIIM
+2025-06-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,72.76,SNIIM
+2025-06-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,64.32,SNIIM
+2025-06-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,100.8,SNIIM
+2025-06-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,47.08,SNIIM
+2025-06-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,68.0,SNIIM
+2025-06-15,Colima: Centros de distribución de Colima,aguacate_hass,92.0,SNIIM
+2025-06-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,66.36,SNIIM
+2025-06-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,73.6,SNIIM
+2025-06-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,72.22,SNIIM
+2025-06-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,98.16,SNIIM
+2025-06-15,Guanajuato: Central de Abasto de León,aguacate_hass,80.8,SNIIM
+2025-06-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,130.0,SNIIM
+2025-06-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,49.92,SNIIM
+2025-06-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,71.08,SNIIM
+2025-06-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,70.8,SNIIM
+2025-06-15,México: Central de Abasto de Ecatepec,aguacate_hass,86.0,SNIIM
+2025-06-15,México: Central de Abasto de Toluca,aguacate_hass,97.2,SNIIM
+2025-06-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,70.0,SNIIM
+2025-06-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,77.8,SNIIM
+2025-06-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,85.0,SNIIM
+2025-06-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,78.89,SNIIM
+2025-06-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,51.11,SNIIM
+2025-06-15,Puebla: Central de Abasto de Puebla,aguacate_hass,59.6,SNIIM
+2025-06-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,76.88,SNIIM
+2025-06-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,132.48,SNIIM
+2025-06-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,65.72,SNIIM
+2025-06-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,90.6,SNIIM
+2025-06-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,91.64,SNIIM
+2025-06-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,62.0,SNIIM
+2025-06-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,91.52,SNIIM
+2025-06-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,66.87,SNIIM
+2025-06-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,120.0,SNIIM
+2025-06-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,65.11,SNIIM
+2025-06-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,94.31,SNIIM
+2025-06-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,79.84,SNIIM
+2025-06-15,Veracruz: Mercado Malibrán,aguacate_hass,71.67,SNIIM
+2025-06-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,79.32,SNIIM
+2025-06-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,93.52,SNIIM
+2025-06-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,55.84,SNIIM
+2025-07-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,65.52,SNIIM
+2025-07-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,59.58,SNIIM
+2025-07-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,99.0,SNIIM
+2025-07-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,42.31,SNIIM
+2025-07-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,68.05,SNIIM
+2025-07-15,Colima: Centros de distribución de Colima,aguacate_hass,92.0,SNIIM
+2025-07-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,58.56,SNIIM
+2025-07-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,71.0,SNIIM
+2025-07-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,65.19,SNIIM
+2025-07-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,88.3,SNIIM
+2025-07-15,Guanajuato: Central de Abasto de León,aguacate_hass,80.2,SNIIM
+2025-07-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,120.36,SNIIM
+2025-07-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,50.13,SNIIM
+2025-07-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,58.64,SNIIM
+2025-07-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,58.63,SNIIM
+2025-07-15,México: Central de Abasto de Ecatepec,aguacate_hass,78.0,SNIIM
+2025-07-15,México: Central de Abasto de Toluca,aguacate_hass,90.46,SNIIM
+2025-07-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,64.08,SNIIM
+2025-07-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,69.8,SNIIM
+2025-07-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,81.25,SNIIM
+2025-07-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,81.0,SNIIM
+2025-07-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,84.0,SNIIM
+2025-07-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,74.72,SNIIM
+2025-07-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,52.27,SNIIM
+2025-07-15,Puebla: Central de Abasto de Puebla,aguacate_hass,60.37,SNIIM
+2025-07-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,67.08,SNIIM
+2025-07-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,127.05,SNIIM
+2025-07-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,61.5,SNIIM
+2025-07-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,85.66,SNIIM
+2025-07-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,85.99,SNIIM
+2025-07-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,62.91,SNIIM
+2025-07-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,82.66,SNIIM
+2025-07-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,66.07,SNIIM
+2025-07-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,113.9,SNIIM
+2025-07-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,63.47,SNIIM
+2025-07-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,95.32,SNIIM
+2025-07-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,78.8,SNIIM
+2025-07-15,Veracruz: Mercado Malibrán,aguacate_hass,79.02,SNIIM
+2025-07-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,75.52,SNIIM
+2025-07-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,85.68,SNIIM
+2025-07-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,51.6,SNIIM
+2025-08-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,57.32,SNIIM
+2025-08-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,63.24,SNIIM
+2025-08-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,84.0,SNIIM
+2025-08-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,43.91,SNIIM
+2025-08-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,69.0,SNIIM
+2025-08-15,Colima: Centros de distribución de Colima,aguacate_hass,92.3,SNIIM
+2025-08-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,57.04,SNIIM
+2025-08-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,66.0,SNIIM
+2025-08-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,56.44,SNIIM
+2025-08-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,87.93,SNIIM
+2025-08-15,Guanajuato: Central de Abasto de León,aguacate_hass,68.72,SNIIM
+2025-08-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,108.4,SNIIM
+2025-08-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,49.0,SNIIM
+2025-08-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,53.51,SNIIM
+2025-08-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,52.57,SNIIM
+2025-08-15,México: Central de Abasto de Ecatepec,aguacate_hass,69.0,SNIIM
+2025-08-15,México: Central de Abasto de Toluca,aguacate_hass,69.0,SNIIM
+2025-08-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,63.52,SNIIM
+2025-08-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,61.25,SNIIM
+2025-08-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,71.25,SNIIM
+2025-08-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,79.7,SNIIM
+2025-08-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,81.34,SNIIM
+2025-08-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,61.67,SNIIM
+2025-08-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,51.42,SNIIM
+2025-08-15,Puebla: Central de Abasto de Puebla,aguacate_hass,51.4,SNIIM
+2025-08-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,61.92,SNIIM
+2025-08-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,109.08,SNIIM
+2025-08-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,56.48,SNIIM
+2025-08-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,94.72,SNIIM
+2025-08-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,95.05,SNIIM
+2025-08-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,67.48,SNIIM
+2025-08-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,61.12,SNIIM
+2025-08-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,59.87,SNIIM
+2025-08-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,99.92,SNIIM
+2025-08-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,57.32,SNIIM
+2025-08-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,88.6,SNIIM
+2025-08-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,77.4,SNIIM
+2025-08-15,Veracruz: Mercado Malibrán,aguacate_hass,79.11,SNIIM
+2025-08-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,68.92,SNIIM
+2025-08-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,75.76,SNIIM
+2025-08-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,64.0,SNIIM
+2025-08-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,49.76,SNIIM
+2025-09-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,42.96,SNIIM
+2025-09-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,53.9,SNIIM
+2025-09-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,64.8,SNIIM
+2025-09-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,38.46,SNIIM
+2025-09-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,59.08,SNIIM
+2025-09-15,Colima: Centros de distribución de Colima,aguacate_hass,81.1,SNIIM
+2025-09-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,64.92,SNIIM
+2025-09-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,51.35,SNIIM
+2025-09-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,42.8,SNIIM
+2025-09-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,63.82,SNIIM
+2025-09-15,Guanajuato: Central de Abasto de León,aguacate_hass,55.85,SNIIM
+2025-09-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,99.3,SNIIM
+2025-09-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,43.48,SNIIM
+2025-09-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,43.26,SNIIM
+2025-09-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,51.09,SNIIM
+2025-09-15,México: Central de Abasto de Ecatepec,aguacate_hass,52.75,SNIIM
+2025-09-15,México: Central de Abasto de Toluca,aguacate_hass,55.3,SNIIM
+2025-09-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,53.43,SNIIM
+2025-09-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,45.0,SNIIM
+2025-09-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,54.0,SNIIM
+2025-09-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,78.66,SNIIM
+2025-09-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,81.33,SNIIM
+2025-09-15,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",aguacate_hass,59.72,SNIIM
+2025-09-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,46.97,SNIIM
+2025-09-15,Puebla: Central de Abasto de Puebla,aguacate_hass,43.91,SNIIM
+2025-09-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,51.92,SNIIM
+2025-09-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,104.14,SNIIM
+2025-09-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,47.42,SNIIM
+2025-09-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,80.6,SNIIM
+2025-09-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,83.33,SNIIM
+2025-09-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,44.44,SNIIM
+2025-09-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,46.17,SNIIM
+2025-09-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,49.2,SNIIM
+2025-09-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,89.05,SNIIM
+2025-09-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,59.63,SNIIM
+2025-09-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,60.6,SNIIM
+2025-09-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,62.8,SNIIM
+2025-09-15,Veracruz: Mercado Malibrán,aguacate_hass,80.22,SNIIM
+2025-09-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,63.0,SNIIM
+2025-09-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,72.0,SNIIM
+2025-09-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,66.0,SNIIM
+2025-09-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,46.35,SNIIM
+2025-10-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,34.32,SNIIM
+2025-10-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,50.0,SNIIM
+2025-10-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,60.0,SNIIM
+2025-10-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,34.31,SNIIM
+2025-10-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,38.0,SNIIM
+2025-10-15,Colima: Centros de distribución de Colima,aguacate_hass,68.6,SNIIM
+2025-10-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,69.09,SNIIM
+2025-10-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,37.2,SNIIM
+2025-10-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,41.87,SNIIM
+2025-10-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,50.1,SNIIM
+2025-10-15,Guanajuato: Central de Abasto de León,aguacate_hass,48.77,SNIIM
+2025-10-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,86.8,SNIIM
+2025-10-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,41.86,SNIIM
+2025-10-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,40.95,SNIIM
+2025-10-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,45.24,SNIIM
+2025-10-15,México: Central de Abasto de Ecatepec,aguacate_hass,46.5,SNIIM
+2025-10-15,México: Central de Abasto de Toluca,aguacate_hass,46.0,SNIIM
+2025-10-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,44.77,SNIIM
+2025-10-15,Morelos: Central de Abasto de Cuautla,aguacate_hass,40.0,SNIIM
+2025-10-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,47.75,SNIIM
+2025-10-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,75.77,SNIIM
+2025-10-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,78.01,SNIIM
+2025-10-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,41.23,SNIIM
+2025-10-15,Puebla: Central de Abasto de Puebla,aguacate_hass,39.4,SNIIM
+2025-10-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,43.39,SNIIM
+2025-10-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,59.96,SNIIM
+2025-10-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,40.32,SNIIM
+2025-10-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,47.84,SNIIM
+2025-10-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,48.71,SNIIM
+2025-10-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,35.96,SNIIM
+2025-10-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,41.24,SNIIM
+2025-10-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,41.23,SNIIM
+2025-10-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,77.4,SNIIM
+2025-10-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,48.7,SNIIM
+2025-10-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,51.73,SNIIM
+2025-10-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,54.72,SNIIM
+2025-10-15,Veracruz: Mercado Malibrán,aguacate_hass,73.56,SNIIM
+2025-10-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,53.95,SNIIM
+2025-10-15,"Yucatán: Mercado ""Casa del Pueblo""",aguacate_hass,65.22,SNIIM
+2025-10-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,40.0,SNIIM
+2025-11-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,33.9,SNIIM
+2025-11-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,50.0,SNIIM
+2025-11-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,60.0,SNIIM
+2025-11-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,31.95,SNIIM
+2025-11-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,36.8,SNIIM
+2025-11-15,Colima: Centros de distribución de Colima,aguacate_hass,67.5,SNIIM
+2025-11-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,63.6,SNIIM
+2025-11-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,35.0,SNIIM
+2025-11-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,37.79,SNIIM
+2025-11-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,40.9,SNIIM
+2025-11-15,Guanajuato: Central de Abasto de León,aguacate_hass,44.0,SNIIM
+2025-11-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,85.13,SNIIM
+2025-11-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,38.7,SNIIM
+2025-11-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,35.79,SNIIM
+2025-11-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,37.44,SNIIM
+2025-11-15,México: Central de Abasto de Ecatepec,aguacate_hass,43.13,SNIIM
+2025-11-15,México: Central de Abasto de Toluca,aguacate_hass,48.0,SNIIM
+2025-11-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,40.5,SNIIM
+2025-11-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,39.0,SNIIM
+2025-11-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,58.0,SNIIM
+2025-11-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,58.25,SNIIM
+2025-11-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,38.63,SNIIM
+2025-11-15,Puebla: Central de Abasto de Puebla,aguacate_hass,39.25,SNIIM
+2025-11-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,39.01,SNIIM
+2025-11-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,76.2,SNIIM
+2025-11-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,35.4,SNIIM
+2025-11-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,64.1,SNIIM
+2025-11-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,63.04,SNIIM
+2025-11-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,37.2,SNIIM
+2025-11-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,40.58,SNIIM
+2025-11-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,36.58,SNIIM
+2025-11-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,79.75,SNIIM
+2025-11-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,51.81,SNIIM
+2025-11-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,57.75,SNIIM
+2025-11-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,52.98,SNIIM
+2025-11-15,Veracruz: Mercado Malibrán,aguacate_hass,76.39,SNIIM
+2025-11-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,42.21,SNIIM
+2025-11-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,30.0,SNIIM
+2025-11-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,41.6,SNIIM
+2025-12-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,31.4,SNIIM
+2025-12-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,42.68,SNIIM
+2025-12-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,54.0,SNIIM
+2025-12-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,30.83,SNIIM
+2025-12-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,30.0,SNIIM
+2025-12-15,Colima: Centros de distribución de Colima,aguacate_hass,63.2,SNIIM
+2025-12-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,66.47,SNIIM
+2025-12-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,33.88,SNIIM
+2025-12-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,37.72,SNIIM
+2025-12-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,37.7,SNIIM
+2025-12-15,Guanajuato: Central de Abasto de León,aguacate_hass,40.8,SNIIM
+2025-12-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,82.67,SNIIM
+2025-12-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,35.0,SNIIM
+2025-12-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,33.4,SNIIM
+2025-12-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,33.67,SNIIM
+2025-12-15,México: Central de Abasto de Ecatepec,aguacate_hass,41.5,SNIIM
+2025-12-15,México: Central de Abasto de Toluca,aguacate_hass,44.93,SNIIM
+2025-12-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,39.89,SNIIM
+2025-12-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,37.2,SNIIM
+2025-12-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,52.33,SNIIM
+2025-12-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,55.6,SNIIM
+2025-12-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,38.67,SNIIM
+2025-12-15,Puebla: Central de Abasto de Puebla,aguacate_hass,39.4,SNIIM
+2025-12-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,38.2,SNIIM
+2025-12-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,94.36,SNIIM
+2025-12-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,33.85,SNIIM
+2025-12-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,53.14,SNIIM
+2025-12-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,53.58,SNIIM
+2025-12-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,36.53,SNIIM
+2025-12-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,38.72,SNIIM
+2025-12-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,35.53,SNIIM
+2025-12-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,84.88,SNIIM
+2025-12-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,50.69,SNIIM
+2025-12-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,55.6,SNIIM
+2025-12-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,51.67,SNIIM
+2025-12-15,Veracruz: Mercado Malibrán,aguacate_hass,66.52,SNIIM
+2025-12-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,42.4,SNIIM
+2025-12-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,50.0,SNIIM
+2025-12-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,41.72,SNIIM
+2026-01-15,Aguascalientes: Centro Comercial Agropecuario de Aguascalientes,aguacate_hass,34.35,SNIIM
+2026-01-15,"Baja California : Central de Abasto INDIA, Tijuana",aguacate_hass,45.0,SNIIM
+2026-01-15,Baja California Sur: Unión de Comerciantes de La Paz,aguacate_hass,53.0,SNIIM
+2026-01-15,"Campeche: Mercado ""Pedro Sáinz de Baranda"", Campeche",aguacate_hass,30.77,SNIIM
+2026-01-15,"Coahuila: Central de Abasto de La Laguna, Torreón",aguacate_hass,30.0,SNIIM
+2026-01-15,Colima: Centros de distribución de Colima,aguacate_hass,62.38,SNIIM
+2026-01-15,Chiapas: Central de Abasto de Tuxtla Gutiérrez,aguacate_hass,44.75,SNIIM
+2026-01-15,Chihuahua: Mercado de Abasto de Cd. Juárez,aguacate_hass,33.5,SNIIM
+2026-01-15,DF: Central de Abasto de Iztapalapa DF,aguacate_hass,36.85,SNIIM
+2026-01-15,Durango: Centro de Distribución y Abasto de Gómez Palacio,aguacate_hass,38.14,SNIIM
+2026-01-15,Guanajuato: Central de Abasto de León,aguacate_hass,38.78,SNIIM
+2026-01-15,Guerrero: Central de Abastos de Acapulco,aguacate_hass,87.0,SNIIM
+2026-01-15,Hidalgo: Central de Abasto de Pachuca,aguacate_hass,40.0,SNIIM
+2026-01-15,Jalisco: Mercado de Abasto de Guadalajara,aguacate_hass,34.05,SNIIM
+2026-01-15,Jalisco: Mercado Felipe Ángeles de Guadalajara,aguacate_hass,35.46,SNIIM
+2026-01-15,México: Central de Abasto de Ecatepec,aguacate_hass,42.5,SNIIM
+2026-01-15,México: Central de Abasto de Toluca,aguacate_hass,40.0,SNIIM
+2026-01-15,Michoacán: Mercado de Abasto de Morelia,aguacate_hass,39.71,SNIIM
+2026-01-15,"Morelos: Central de Abasto ""Emiliano Zapata""",aguacate_hass,48.0,SNIIM
+2026-01-15,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",aguacate_hass,46.0,SNIIM
+2026-01-15,Nayarit: Mercado de abasto 'Adolfo López Mateos' de Tepic,aguacate_hass,41.6,SNIIM
+2026-01-15,Nayarit: Nayarabastos de Tepic,aguacate_hass,43.4,SNIIM
+2026-01-15,Oaxaca: Módulo de Abasto de Oaxaca,aguacate_hass,38.46,SNIIM
+2026-01-15,Puebla: Central de Abasto de Puebla,aguacate_hass,36.4,SNIIM
+2026-01-15,Querétaro: Mercado de Abasto de Querétaro,aguacate_hass,38.12,SNIIM
+2026-01-15,"Quintana Roo: Mercado de Chetumal, Quintana Roo",aguacate_hass,79.0,SNIIM
+2026-01-15,San Luis Potosí: Centro de Abasto de San Luis Potosí,aguacate_hass,33.98,SNIIM
+2026-01-15,Sinaloa: Central de Abasto de Culiacán,aguacate_hass,51.12,SNIIM
+2026-01-15,Sinaloa: Zona de Abasto de Mazatlán,aguacate_hass,52.16,SNIIM
+2026-01-15,Sonora: Central de Abasto de Cd. Obregón,aguacate_hass,34.75,SNIIM
+2026-01-15,"Sonora: Mercado de Abasto ""Francisco I. Madero"" de Hermosillo",aguacate_hass,39.5,SNIIM
+2026-01-15,Tabasco: Central de Abasto de Villahermosa,aguacate_hass,37.78,SNIIM
+2026-01-15,Tamaulipas: Módulo de Abasto de Reynosa,aguacate_hass,72.67,SNIIM
+2026-01-15,"Tamaulipas: Módulo de Abasto de Tampico, Madero y Altamira",aguacate_hass,43.26,SNIIM
+2026-01-15,Veracruz: Central de Abasto de Jalapa,aguacate_hass,51.0,SNIIM
+2026-01-15,Veracruz: Central de Abasto de Minatitlán,aguacate_hass,51.4,SNIIM
+2026-01-15,Veracruz: Mercado Malibrán,aguacate_hass,51.67,SNIIM
+2026-01-15,Yucatán: Central de Abasto de Mérida,aguacate_hass,43.0,SNIIM
+2026-01-15,Yucatán: Centro Mayorista Oxkutzcab,aguacate_hass,51.67,SNIIM
+2026-01-15,Zacatecas: Mercado de Abasto de Zacatecas,aguacate_hass,41.4,SNIIM
